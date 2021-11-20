@@ -1,6 +1,5 @@
 <img src="https://github-readme-stats.vercel.app/api?username=lmmake&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
-<h1 align="center">Hi 👋, I'm Jay</h1>
-<h3 align="left">Connect with me:</h3>
+<h1 align="center">hi im spooky</h1>
 <p align="left">
 </p>
 
